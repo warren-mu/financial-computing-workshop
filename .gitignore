@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# venv / env
+pyTorchFinance/
+coding_basics/
+.venv/
+venv/
+
+# downloaded data
+data/
+
+# model artifacts
+*.pth
+
+# local IDE / db
+anaconda_projects/
+*.db
